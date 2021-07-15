@@ -40,7 +40,7 @@
 			hideDelay: 350
 		});
 
-	// Nav.
+/* 	// Nav.
 
 		// Title Bar.
 			$(
@@ -69,7 +69,7 @@
 					side: 'left',
 					target: $body,
 					visibleClass: 'navPanel-visible'
-				});
+				}); */
 
 	// Parallax.
 	// Disabled on IE (choppy scrolling) and mobile platforms (poor performance).
