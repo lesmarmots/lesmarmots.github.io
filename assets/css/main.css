@@ -2532,12 +2532,11 @@ input, select, textarea {
 		.image img {
 			border-radius: 4px;
 			display: block;
-            max-width: 120%;
+            width: 100%;
             float: center;
-            max-height: 15em;
-            width: auto;
-            height: auto;
+            height: 15em;
             object-fit: cover;
+            overflow: hidden;
 
 
 		}
