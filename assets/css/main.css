@@ -3146,15 +3146,15 @@ input, select, textarea {
 		}
 
 		.spotlight.style1 .content {
-			border-color: #e44c65;
+			border-color: #ffff00;
 		}
 
 		.spotlight.style2 .content {
-			border-color: #5480f1;
+			border-color: #663366;
 		}
 
 		.spotlight.style3 .content {
-			border-color: #39c088;
+			border-color: #66cccc;
 		}
 
 		.spotlight.inactive .content {
@@ -3208,12 +3208,16 @@ input, select, textarea {
 	}
 
 		.wrapper.style2 {
-			background: #e44c65;
+			background: #663366;
 		}
 
 		.wrapper.style3 {
-			background: #6699ff;
+			background: #66cccc;
 		}
+        
+        .wrapper.style4{
+			background:#663366
+            }
 
 			.wrapper.style2 input[type="text"]:focus,
 			.wrapper.style2 input[type="password"]:focus,
