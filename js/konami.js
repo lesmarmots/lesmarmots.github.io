@@ -38,5 +38,5 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCheats() {
-  window.location.replace("https://lesmarmots.github.io/img/marion.jpg");
+  window.location.replace("https://lesmarmots.github.io/images/marion.jpg");
 }
